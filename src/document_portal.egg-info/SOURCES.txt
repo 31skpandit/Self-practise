@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/__init__.py
+src/document_analyzer/__init__.py
+src/document_chat/__init__.py
+src/document_compare/__init__.py
+src/document_ingestion/__init__.py
+src/document_portal.egg-info/PKG-INFO
+src/document_portal.egg-info/SOURCES.txt
+src/document_portal.egg-info/dependency_links.txt
+src/document_portal.egg-info/top_level.txt
